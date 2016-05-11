@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/debug.png</file>
+        <file>image/debug_OutLight.png</file>
+        <file>image/fan40x40.png</file>
+        <file>image/fan_m40x40.gif</file>
+        <file>image/fire_n.png</file>
+        <file>image/fire_y.png</file>
+        <file>image/hong_cs.png</file>
+        <file>image/hong_hb.png</file>
+        <file>image/led_off40x40.png</file>
+        <file>image/led_on40x40.png</file>
+        <file>image/left.png</file>
+        <file>image/left_OutLight.png</file>
+        <file>image/logo.png</file>
+        <file>image/off.png</file>
+        <file>image/on.png</file>
+        <file>image/push_down.png</file>
+        <file>image/push_up.png</file>
+        <file>image/right.png</file>
+        <file>image/right_OutLight.png</file>
+        <file>image/sensor.png</file>
+        <file>image/sensor_OutLight.png</file>
+        <file>image/touch_off.png</file>
+        <file>image/touch_on.png</file>
+        <file>image/voice_off.png</file>
+        <file>image/voice_on.png</file>
+        <file>image/trans.png</file>
+        <file>image/update.png</file>
+        <file>image/update_OutLight.png</file>
+    </qresource>
+</RCC>
